@@ -1,0 +1,27 @@
+{
+  "name": "vmanage",
+  "version": "1.0.0",
+  "description": "Management App to manage leaves, assets and more ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishal-vash/vManage.git"
+  },
+  "keywords": [
+    "management",
+    "leaves",
+    "manager",
+    "admin",
+    "assets",
+    "management"
+  ],
+  "author": "Vishal Vasishat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishal-vash/vManage/issues"
+  },
+  "homepage": "https://github.com/Vishal-vash/vManage#readme"
+}
